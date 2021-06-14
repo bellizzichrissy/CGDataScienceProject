@@ -1,0 +1,899 @@
+name,id,types,number_types,type1,type2,hybrid_type
+bulbasaur,1,"['grass', 'poison']",2,grass,poison,"grass,poison"
+ivysaur,2,"['grass', 'poison']",2,grass,poison,"grass,poison"
+venusaur,3,"['grass', 'poison']",2,grass,poison,"grass,poison"
+charmander,4,['fire'],1,fire,none,fire
+charmeleon,5,['fire'],1,fire,none,fire
+charizard,6,"['fire', 'flying']",2,fire,flying,"fire,flying"
+squirtle,7,['water'],1,water,none,water
+wartortle,8,['water'],1,water,none,water
+blastoise,9,['water'],1,water,none,water
+caterpie,10,['bug'],1,bug,none,bug
+metapod,11,['bug'],1,bug,none,bug
+butterfree,12,"['bug', 'flying']",2,bug,flying,"bug,flying"
+weedle,13,"['bug', 'poison']",2,bug,poison,"bug,poison"
+kakuna,14,"['bug', 'poison']",2,bug,poison,"bug,poison"
+beedrill,15,"['bug', 'poison']",2,bug,poison,"bug,poison"
+pidgey,16,"['flying', 'normal']",2,normal,flying,"flying,normal"
+pidgeotto,17,"['flying', 'normal']",2,normal,flying,"flying,normal"
+pidgeot,18,"['flying', 'normal']",2,normal,flying,"flying,normal"
+rattata,19,['normal'],1,normal,none,normal
+raticate,20,['normal'],1,normal,none,normal
+spearow,21,"['flying', 'normal']",2,normal,flying,"flying,normal"
+fearow,22,"['flying', 'normal']",2,normal,flying,"flying,normal"
+ekans,23,['poison'],1,poison,none,poison
+arbok,24,['poison'],1,poison,none,poison
+pikachu,25,['electric'],1,electric,none,electric
+raichu,26,['electric'],1,electric,none,electric
+sandshrew,27,['ground'],1,ground,none,ground
+sandslash,28,['ground'],1,ground,none,ground
+nidoran-f,29,['poison'],1,poison,none,poison
+nidorina,30,['poison'],1,poison,none,poison
+nidoqueen,31,"['ground', 'poison']",2,poison,ground,"ground,poison"
+nidoran-m,32,['poison'],1,poison,none,poison
+nidorino,33,['poison'],1,poison,none,poison
+nidoking,34,"['ground', 'poison']",2,poison,ground,"ground,poison"
+clefairy,35,['fairy'],1,fairy,none,fairy
+clefable,36,['fairy'],1,fairy,none,fairy
+vulpix,37,['fire'],1,fire,none,fire
+ninetales,38,['fire'],1,fire,none,fire
+jigglypuff,39,"['fairy', 'normal']",2,normal,fairy,"fairy,normal"
+wigglytuff,40,"['fairy', 'normal']",2,normal,fairy,"fairy,normal"
+zubat,41,"['flying', 'poison']",2,poison,flying,"flying,poison"
+golbat,42,"['flying', 'poison']",2,poison,flying,"flying,poison"
+oddish,43,"['grass', 'poison']",2,grass,poison,"grass,poison"
+gloom,44,"['grass', 'poison']",2,grass,poison,"grass,poison"
+vileplume,45,"['grass', 'poison']",2,grass,poison,"grass,poison"
+paras,46,"['bug', 'grass']",2,bug,grass,"bug,grass"
+parasect,47,"['bug', 'grass']",2,bug,grass,"bug,grass"
+venonat,48,"['bug', 'poison']",2,bug,poison,"bug,poison"
+venomoth,49,"['bug', 'poison']",2,bug,poison,"bug,poison"
+diglett,50,['ground'],1,ground,none,ground
+dugtrio,51,['ground'],1,ground,none,ground
+meowth,52,['normal'],1,normal,none,normal
+persian,53,['normal'],1,normal,none,normal
+psyduck,54,['water'],1,water,none,water
+golduck,55,['water'],1,water,none,water
+mankey,56,['fighting'],1,fighting,none,fighting
+primeape,57,['fighting'],1,fighting,none,fighting
+growlithe,58,['fire'],1,fire,none,fire
+arcanine,59,['fire'],1,fire,none,fire
+poliwag,60,['water'],1,water,none,water
+poliwhirl,61,['water'],1,water,none,water
+poliwrath,62,"['fighting', 'water']",2,water,fighting,"fighting,water"
+abra,63,['psychic'],1,psychic,none,psychic
+kadabra,64,['psychic'],1,psychic,none,psychic
+alakazam,65,['psychic'],1,psychic,none,psychic
+machop,66,['fighting'],1,fighting,none,fighting
+machoke,67,['fighting'],1,fighting,none,fighting
+machamp,68,['fighting'],1,fighting,none,fighting
+bellsprout,69,"['grass', 'poison']",2,grass,poison,"grass,poison"
+weepinbell,70,"['grass', 'poison']",2,grass,poison,"grass,poison"
+victreebel,71,"['grass', 'poison']",2,grass,poison,"grass,poison"
+tentacool,72,"['poison', 'water']",2,water,poison,"poison,water"
+tentacruel,73,"['poison', 'water']",2,water,poison,"poison,water"
+geodude,74,"['ground', 'rock']",2,rock,ground,"ground,rock"
+graveler,75,"['ground', 'rock']",2,rock,ground,"ground,rock"
+golem,76,"['ground', 'rock']",2,rock,ground,"ground,rock"
+ponyta,77,['fire'],1,fire,none,fire
+rapidash,78,['fire'],1,fire,none,fire
+slowpoke,79,"['psychic', 'water']",2,water,psychic,"psychic,water"
+slowbro,80,"['psychic', 'water']",2,water,psychic,"psychic,water"
+magnemite,81,"['electric', 'steel']",2,electric,steel,"electric,steel"
+magneton,82,"['electric', 'steel']",2,electric,steel,"electric,steel"
+farfetchd,83,"['flying', 'normal']",2,normal,flying,"flying,normal"
+doduo,84,"['flying', 'normal']",2,normal,flying,"flying,normal"
+dodrio,85,"['flying', 'normal']",2,normal,flying,"flying,normal"
+seel,86,['water'],1,water,none,water
+dewgong,87,"['ice', 'water']",2,water,ice,"ice,water"
+grimer,88,['poison'],1,poison,none,poison
+muk,89,['poison'],1,poison,none,poison
+shellder,90,['water'],1,water,none,water
+cloyster,91,"['ice', 'water']",2,water,ice,"ice,water"
+gastly,92,"['ghost', 'poison']",2,ghost,poison,"ghost,poison"
+haunter,93,"['ghost', 'poison']",2,ghost,poison,"ghost,poison"
+gengar,94,"['ghost', 'poison']",2,ghost,poison,"ghost,poison"
+onix,95,"['ground', 'rock']",2,rock,ground,"ground,rock"
+drowzee,96,['psychic'],1,psychic,none,psychic
+hypno,97,['psychic'],1,psychic,none,psychic
+krabby,98,['water'],1,water,none,water
+kingler,99,['water'],1,water,none,water
+voltorb,100,['electric'],1,electric,none,electric
+electrode,101,['electric'],1,electric,none,electric
+exeggcute,102,"['grass', 'psychic']",2,grass,psychic,"grass,psychic"
+exeggutor,103,"['grass', 'psychic']",2,grass,psychic,"grass,psychic"
+cubone,104,['ground'],1,ground,none,ground
+marowak,105,['ground'],1,ground,none,ground
+hitmonlee,106,['fighting'],1,fighting,none,fighting
+hitmonchan,107,['fighting'],1,fighting,none,fighting
+lickitung,108,['normal'],1,normal,none,normal
+koffing,109,['poison'],1,poison,none,poison
+weezing,110,['poison'],1,poison,none,poison
+rhyhorn,111,"['ground', 'rock']",2,ground,rock,"ground,rock"
+rhydon,112,"['ground', 'rock']",2,ground,rock,"ground,rock"
+chansey,113,['normal'],1,normal,none,normal
+tangela,114,['grass'],1,grass,none,grass
+kangaskhan,115,['normal'],1,normal,none,normal
+horsea,116,['water'],1,water,none,water
+seadra,117,['water'],1,water,none,water
+goldeen,118,['water'],1,water,none,water
+seaking,119,['water'],1,water,none,water
+staryu,120,['water'],1,water,none,water
+starmie,121,"['psychic', 'water']",2,water,psychic,"psychic,water"
+mr-mime,122,"['fairy', 'psychic']",2,psychic,fairy,"fairy,psychic"
+scyther,123,"['bug', 'flying']",2,bug,flying,"bug,flying"
+jynx,124,"['ice', 'psychic']",2,ice,psychic,"ice,psychic"
+electabuzz,125,['electric'],1,electric,none,electric
+magmar,126,['fire'],1,fire,none,fire
+pinsir,127,['bug'],1,bug,none,bug
+tauros,128,['normal'],1,normal,none,normal
+magikarp,129,['water'],1,water,none,water
+gyarados,130,"['flying', 'water']",2,water,flying,"flying,water"
+lapras,131,"['ice', 'water']",2,water,ice,"ice,water"
+ditto,132,['normal'],1,normal,none,normal
+eevee,133,['normal'],1,normal,none,normal
+vaporeon,134,['water'],1,water,none,water
+jolteon,135,['electric'],1,electric,none,electric
+flareon,136,['fire'],1,fire,none,fire
+porygon,137,['normal'],1,normal,none,normal
+omanyte,138,"['rock', 'water']",2,rock,water,"rock,water"
+omastar,139,"['rock', 'water']",2,rock,water,"rock,water"
+kabuto,140,"['rock', 'water']",2,rock,water,"rock,water"
+kabutops,141,"['rock', 'water']",2,rock,water,"rock,water"
+aerodactyl,142,"['flying', 'rock']",2,rock,flying,"flying,rock"
+snorlax,143,['normal'],1,normal,none,normal
+articuno,144,"['flying', 'ice']",2,ice,flying,"flying,ice"
+zapdos,145,"['electric', 'flying']",2,electric,flying,"electric,flying"
+moltres,146,"['fire', 'flying']",2,fire,flying,"fire,flying"
+dratini,147,['dragon'],1,dragon,none,dragon
+dragonair,148,['dragon'],1,dragon,none,dragon
+dragonite,149,"['dragon', 'flying']",2,dragon,flying,"dragon,flying"
+mewtwo,150,['psychic'],1,psychic,none,psychic
+mew,151,['psychic'],1,psychic,none,psychic
+chikorita,152,['grass'],1,grass,none,grass
+bayleef,153,['grass'],1,grass,none,grass
+meganium,154,['grass'],1,grass,none,grass
+cyndaquil,155,['fire'],1,fire,none,fire
+quilava,156,['fire'],1,fire,none,fire
+typhlosion,157,['fire'],1,fire,none,fire
+totodile,158,['water'],1,water,none,water
+croconaw,159,['water'],1,water,none,water
+feraligatr,160,['water'],1,water,none,water
+sentret,161,['normal'],1,normal,none,normal
+furret,162,['normal'],1,normal,none,normal
+hoothoot,163,"['flying', 'normal']",2,normal,flying,"flying,normal"
+noctowl,164,"['flying', 'normal']",2,normal,flying,"flying,normal"
+ledyba,165,"['bug', 'flying']",2,bug,flying,"bug,flying"
+ledian,166,"['bug', 'flying']",2,bug,flying,"bug,flying"
+spinarak,167,"['bug', 'poison']",2,bug,poison,"bug,poison"
+ariados,168,"['bug', 'poison']",2,bug,poison,"bug,poison"
+crobat,169,"['flying', 'poison']",2,poison,flying,"flying,poison"
+chinchou,170,"['electric', 'water']",2,water,electric,"electric,water"
+lanturn,171,"['electric', 'water']",2,water,electric,"electric,water"
+pichu,172,['electric'],1,electric,none,electric
+cleffa,173,['fairy'],1,fairy,none,fairy
+igglybuff,174,"['fairy', 'normal']",2,normal,fairy,"fairy,normal"
+togepi,175,['fairy'],1,fairy,none,fairy
+togetic,176,"['fairy', 'flying']",2,fairy,flying,"fairy,flying"
+natu,177,"['flying', 'psychic']",2,psychic,flying,"flying,psychic"
+xatu,178,"['flying', 'psychic']",2,psychic,flying,"flying,psychic"
+mareep,179,['electric'],1,electric,none,electric
+flaaffy,180,['electric'],1,electric,none,electric
+ampharos,181,['electric'],1,electric,none,electric
+bellossom,182,['grass'],1,grass,none,grass
+marill,183,"['fairy', 'water']",2,water,fairy,"fairy,water"
+azumarill,184,"['fairy', 'water']",2,water,fairy,"fairy,water"
+sudowoodo,185,['rock'],1,rock,none,rock
+politoed,186,['water'],1,water,none,water
+hoppip,187,"['flying', 'grass']",2,grass,flying,"flying,grass"
+skiploom,188,"['flying', 'grass']",2,grass,flying,"flying,grass"
+jumpluff,189,"['flying', 'grass']",2,grass,flying,"flying,grass"
+aipom,190,['normal'],1,normal,none,normal
+sunkern,191,['grass'],1,grass,none,grass
+sunflora,192,['grass'],1,grass,none,grass
+yanma,193,"['bug', 'flying']",2,bug,flying,"bug,flying"
+wooper,194,"['ground', 'water']",2,water,ground,"ground,water"
+quagsire,195,"['ground', 'water']",2,water,ground,"ground,water"
+espeon,196,['psychic'],1,psychic,none,psychic
+umbreon,197,['dark'],1,dark,none,dark
+murkrow,198,"['dark', 'flying']",2,dark,flying,"dark,flying"
+slowking,199,"['psychic', 'water']",2,water,psychic,"psychic,water"
+misdreavus,200,['ghost'],1,ghost,none,ghost
+unown,201,['psychic'],1,psychic,none,psychic
+wobbuffet,202,['psychic'],1,psychic,none,psychic
+girafarig,203,"['normal', 'psychic']",2,normal,psychic,"normal,psychic"
+pineco,204,['bug'],1,bug,none,bug
+forretress,205,"['bug', 'steel']",2,bug,steel,"bug,steel"
+dunsparce,206,['normal'],1,normal,none,normal
+gligar,207,"['flying', 'ground']",2,ground,flying,"flying,ground"
+steelix,208,"['ground', 'steel']",2,steel,ground,"ground,steel"
+snubbull,209,['fairy'],1,fairy,none,fairy
+granbull,210,['fairy'],1,fairy,none,fairy
+qwilfish,211,"['poison', 'water']",2,water,poison,"poison,water"
+scizor,212,"['bug', 'steel']",2,bug,steel,"bug,steel"
+shuckle,213,"['bug', 'rock']",2,bug,rock,"bug,rock"
+heracross,214,"['bug', 'fighting']",2,bug,fighting,"bug,fighting"
+sneasel,215,"['dark', 'ice']",2,dark,ice,"dark,ice"
+teddiursa,216,['normal'],1,normal,none,normal
+ursaring,217,['normal'],1,normal,none,normal
+slugma,218,['fire'],1,fire,none,fire
+magcargo,219,"['fire', 'rock']",2,fire,rock,"fire,rock"
+swinub,220,"['ground', 'ice']",2,ice,ground,"ground,ice"
+piloswine,221,"['ground', 'ice']",2,ice,ground,"ground,ice"
+corsola,222,"['rock', 'water']",2,water,rock,"rock,water"
+remoraid,223,['water'],1,water,none,water
+octillery,224,['water'],1,water,none,water
+delibird,225,"['flying', 'ice']",2,ice,flying,"flying,ice"
+mantine,226,"['flying', 'water']",2,water,flying,"flying,water"
+skarmory,227,"['flying', 'steel']",2,steel,flying,"flying,steel"
+houndour,228,"['dark', 'fire']",2,dark,fire,"dark,fire"
+houndoom,229,"['dark', 'fire']",2,dark,fire,"dark,fire"
+kingdra,230,"['dragon', 'water']",2,water,dragon,"dragon,water"
+phanpy,231,['ground'],1,ground,none,ground
+donphan,232,['ground'],1,ground,none,ground
+porygon2,233,['normal'],1,normal,none,normal
+stantler,234,['normal'],1,normal,none,normal
+smeargle,235,['normal'],1,normal,none,normal
+tyrogue,236,['fighting'],1,fighting,none,fighting
+hitmontop,237,['fighting'],1,fighting,none,fighting
+smoochum,238,"['ice', 'psychic']",2,ice,psychic,"ice,psychic"
+elekid,239,['electric'],1,electric,none,electric
+magby,240,['fire'],1,fire,none,fire
+miltank,241,['normal'],1,normal,none,normal
+blissey,242,['normal'],1,normal,none,normal
+raikou,243,['electric'],1,electric,none,electric
+entei,244,['fire'],1,fire,none,fire
+suicune,245,['water'],1,water,none,water
+larvitar,246,"['ground', 'rock']",2,rock,ground,"ground,rock"
+pupitar,247,"['ground', 'rock']",2,rock,ground,"ground,rock"
+tyranitar,248,"['dark', 'rock']",2,rock,dark,"dark,rock"
+lugia,249,"['flying', 'psychic']",2,psychic,flying,"flying,psychic"
+ho-oh,250,"['fire', 'flying']",2,fire,flying,"fire,flying"
+celebi,251,"['grass', 'psychic']",2,psychic,grass,"grass,psychic"
+treecko,252,['grass'],1,grass,none,grass
+grovyle,253,['grass'],1,grass,none,grass
+sceptile,254,['grass'],1,grass,none,grass
+torchic,255,['fire'],1,fire,none,fire
+combusken,256,"['fighting', 'fire']",2,fire,fighting,"fighting,fire"
+blaziken,257,"['fighting', 'fire']",2,fire,fighting,"fighting,fire"
+mudkip,258,['water'],1,water,none,water
+marshtomp,259,"['ground', 'water']",2,water,ground,"ground,water"
+swampert,260,"['ground', 'water']",2,water,ground,"ground,water"
+poochyena,261,['dark'],1,dark,none,dark
+mightyena,262,['dark'],1,dark,none,dark
+zigzagoon,263,['normal'],1,normal,none,normal
+linoone,264,['normal'],1,normal,none,normal
+wurmple,265,['bug'],1,bug,none,bug
+silcoon,266,['bug'],1,bug,none,bug
+beautifly,267,"['bug', 'flying']",2,bug,flying,"bug,flying"
+cascoon,268,['bug'],1,bug,none,bug
+dustox,269,"['bug', 'poison']",2,bug,poison,"bug,poison"
+lotad,270,"['grass', 'water']",2,water,grass,"grass,water"
+lombre,271,"['grass', 'water']",2,water,grass,"grass,water"
+ludicolo,272,"['grass', 'water']",2,water,grass,"grass,water"
+seedot,273,['grass'],1,grass,none,grass
+nuzleaf,274,"['dark', 'grass']",2,grass,dark,"dark,grass"
+shiftry,275,"['dark', 'grass']",2,grass,dark,"dark,grass"
+taillow,276,"['flying', 'normal']",2,normal,flying,"flying,normal"
+swellow,277,"['flying', 'normal']",2,normal,flying,"flying,normal"
+wingull,278,"['flying', 'water']",2,water,flying,"flying,water"
+pelipper,279,"['flying', 'water']",2,water,flying,"flying,water"
+ralts,280,"['fairy', 'psychic']",2,psychic,fairy,"fairy,psychic"
+kirlia,281,"['fairy', 'psychic']",2,psychic,fairy,"fairy,psychic"
+gardevoir,282,"['fairy', 'psychic']",2,psychic,fairy,"fairy,psychic"
+surskit,283,"['bug', 'water']",2,bug,water,"bug,water"
+masquerain,284,"['bug', 'flying']",2,bug,flying,"bug,flying"
+shroomish,285,['grass'],1,grass,none,grass
+breloom,286,"['fighting', 'grass']",2,grass,fighting,"fighting,grass"
+slakoth,287,['normal'],1,normal,none,normal
+vigoroth,288,['normal'],1,normal,none,normal
+slaking,289,['normal'],1,normal,none,normal
+nincada,290,"['bug', 'ground']",2,bug,ground,"bug,ground"
+ninjask,291,"['bug', 'flying']",2,bug,flying,"bug,flying"
+shedinja,292,"['bug', 'ghost']",2,bug,ghost,"bug,ghost"
+whismur,293,['normal'],1,normal,none,normal
+loudred,294,['normal'],1,normal,none,normal
+exploud,295,['normal'],1,normal,none,normal
+makuhita,296,['fighting'],1,fighting,none,fighting
+hariyama,297,['fighting'],1,fighting,none,fighting
+azurill,298,"['fairy', 'normal']",2,normal,fairy,"fairy,normal"
+nosepass,299,['rock'],1,rock,none,rock
+skitty,300,['normal'],1,normal,none,normal
+delcatty,301,['normal'],1,normal,none,normal
+sableye,302,"['dark', 'ghost']",2,dark,ghost,"dark,ghost"
+mawile,303,"['fairy', 'steel']",2,steel,fairy,"fairy,steel"
+aron,304,"['rock', 'steel']",2,steel,rock,"rock,steel"
+lairon,305,"['rock', 'steel']",2,steel,rock,"rock,steel"
+aggron,306,"['rock', 'steel']",2,steel,rock,"rock,steel"
+meditite,307,"['fighting', 'psychic']",2,fighting,psychic,"fighting,psychic"
+medicham,308,"['fighting', 'psychic']",2,fighting,psychic,"fighting,psychic"
+electrike,309,['electric'],1,electric,none,electric
+manectric,310,['electric'],1,electric,none,electric
+plusle,311,['electric'],1,electric,none,electric
+minun,312,['electric'],1,electric,none,electric
+volbeat,313,['bug'],1,bug,none,bug
+illumise,314,['bug'],1,bug,none,bug
+roselia,315,"['grass', 'poison']",2,grass,poison,"grass,poison"
+gulpin,316,['poison'],1,poison,none,poison
+swalot,317,['poison'],1,poison,none,poison
+carvanha,318,"['dark', 'water']",2,water,dark,"dark,water"
+sharpedo,319,"['dark', 'water']",2,water,dark,"dark,water"
+wailmer,320,['water'],1,water,none,water
+wailord,321,['water'],1,water,none,water
+numel,322,"['fire', 'ground']",2,fire,ground,"fire,ground"
+camerupt,323,"['fire', 'ground']",2,fire,ground,"fire,ground"
+torkoal,324,['fire'],1,fire,none,fire
+spoink,325,['psychic'],1,psychic,none,psychic
+grumpig,326,['psychic'],1,psychic,none,psychic
+spinda,327,['normal'],1,normal,none,normal
+trapinch,328,['ground'],1,ground,none,ground
+vibrava,329,"['dragon', 'ground']",2,ground,dragon,"dragon,ground"
+flygon,330,"['dragon', 'ground']",2,ground,dragon,"dragon,ground"
+cacnea,331,['grass'],1,grass,none,grass
+cacturne,332,"['dark', 'grass']",2,grass,dark,"dark,grass"
+swablu,333,"['flying', 'normal']",2,normal,flying,"flying,normal"
+altaria,334,"['dragon', 'flying']",2,dragon,flying,"dragon,flying"
+zangoose,335,['normal'],1,normal,none,normal
+seviper,336,['poison'],1,poison,none,poison
+lunatone,337,"['psychic', 'rock']",2,rock,psychic,"psychic,rock"
+solrock,338,"['psychic', 'rock']",2,rock,psychic,"psychic,rock"
+barboach,339,"['ground', 'water']",2,water,ground,"ground,water"
+whiscash,340,"['ground', 'water']",2,water,ground,"ground,water"
+corphish,341,['water'],1,water,none,water
+crawdaunt,342,"['dark', 'water']",2,water,dark,"dark,water"
+baltoy,343,"['ground', 'psychic']",2,ground,psychic,"ground,psychic"
+claydol,344,"['ground', 'psychic']",2,ground,psychic,"ground,psychic"
+lileep,345,"['grass', 'rock']",2,rock,grass,"grass,rock"
+cradily,346,"['grass', 'rock']",2,rock,grass,"grass,rock"
+anorith,347,"['bug', 'rock']",2,rock,bug,"bug,rock"
+armaldo,348,"['bug', 'rock']",2,rock,bug,"bug,rock"
+feebas,349,['water'],1,water,none,water
+milotic,350,['water'],1,water,none,water
+castform,351,['normal'],1,normal,none,normal
+kecleon,352,['normal'],1,normal,none,normal
+shuppet,353,['ghost'],1,ghost,none,ghost
+banette,354,['ghost'],1,ghost,none,ghost
+duskull,355,['ghost'],1,ghost,none,ghost
+dusclops,356,['ghost'],1,ghost,none,ghost
+tropius,357,"['flying', 'grass']",2,grass,flying,"flying,grass"
+chimecho,358,['psychic'],1,psychic,none,psychic
+absol,359,['dark'],1,dark,none,dark
+wynaut,360,['psychic'],1,psychic,none,psychic
+snorunt,361,['ice'],1,ice,none,ice
+glalie,362,['ice'],1,ice,none,ice
+spheal,363,"['ice', 'water']",2,ice,water,"ice,water"
+sealeo,364,"['ice', 'water']",2,ice,water,"ice,water"
+walrein,365,"['ice', 'water']",2,ice,water,"ice,water"
+clamperl,366,['water'],1,water,none,water
+huntail,367,['water'],1,water,none,water
+gorebyss,368,['water'],1,water,none,water
+relicanth,369,"['rock', 'water']",2,water,rock,"rock,water"
+luvdisc,370,['water'],1,water,none,water
+bagon,371,['dragon'],1,dragon,none,dragon
+shelgon,372,['dragon'],1,dragon,none,dragon
+salamence,373,"['dragon', 'flying']",2,dragon,flying,"dragon,flying"
+beldum,374,"['psychic', 'steel']",2,steel,psychic,"psychic,steel"
+metang,375,"['psychic', 'steel']",2,steel,psychic,"psychic,steel"
+metagross,376,"['psychic', 'steel']",2,steel,psychic,"psychic,steel"
+regirock,377,['rock'],1,rock,none,rock
+regice,378,['ice'],1,ice,none,ice
+registeel,379,['steel'],1,steel,none,steel
+latias,380,"['dragon', 'psychic']",2,dragon,psychic,"dragon,psychic"
+latios,381,"['dragon', 'psychic']",2,dragon,psychic,"dragon,psychic"
+kyogre,382,['water'],1,water,none,water
+groudon,383,['ground'],1,ground,none,ground
+rayquaza,384,"['dragon', 'flying']",2,dragon,flying,"dragon,flying"
+jirachi,385,"['psychic', 'steel']",2,steel,psychic,"psychic,steel"
+deoxys-normal,386,['psychic'],1,psychic,none,psychic
+turtwig,387,['grass'],1,grass,none,grass
+grotle,388,['grass'],1,grass,none,grass
+torterra,389,"['grass', 'ground']",2,grass,ground,"grass,ground"
+chimchar,390,['fire'],1,fire,none,fire
+monferno,391,"['fighting', 'fire']",2,fire,fighting,"fighting,fire"
+infernape,392,"['fighting', 'fire']",2,fire,fighting,"fighting,fire"
+piplup,393,['water'],1,water,none,water
+prinplup,394,['water'],1,water,none,water
+empoleon,395,"['steel', 'water']",2,water,steel,"steel,water"
+starly,396,"['flying', 'normal']",2,normal,flying,"flying,normal"
+staravia,397,"['flying', 'normal']",2,normal,flying,"flying,normal"
+staraptor,398,"['flying', 'normal']",2,normal,flying,"flying,normal"
+bidoof,399,['normal'],1,normal,none,normal
+bibarel,400,"['normal', 'water']",2,normal,water,"normal,water"
+kricketot,401,['bug'],1,bug,none,bug
+kricketune,402,['bug'],1,bug,none,bug
+shinx,403,['electric'],1,electric,none,electric
+luxio,404,['electric'],1,electric,none,electric
+luxray,405,['electric'],1,electric,none,electric
+budew,406,"['grass', 'poison']",2,grass,poison,"grass,poison"
+roserade,407,"['grass', 'poison']",2,grass,poison,"grass,poison"
+cranidos,408,['rock'],1,rock,none,rock
+rampardos,409,['rock'],1,rock,none,rock
+shieldon,410,"['rock', 'steel']",2,rock,steel,"rock,steel"
+bastiodon,411,"['rock', 'steel']",2,rock,steel,"rock,steel"
+burmy,412,['bug'],1,bug,none,bug
+wormadam-plant,413,"['bug', 'grass']",2,bug,grass,"bug,grass"
+mothim,414,"['bug', 'flying']",2,bug,flying,"bug,flying"
+combee,415,"['bug', 'flying']",2,bug,flying,"bug,flying"
+vespiquen,416,"['bug', 'flying']",2,bug,flying,"bug,flying"
+pachirisu,417,['electric'],1,electric,none,electric
+buizel,418,['water'],1,water,none,water
+floatzel,419,['water'],1,water,none,water
+cherubi,420,['grass'],1,grass,none,grass
+cherrim,421,['grass'],1,grass,none,grass
+shellos,422,['water'],1,water,none,water
+gastrodon,423,"['ground', 'water']",2,water,ground,"ground,water"
+ambipom,424,['normal'],1,normal,none,normal
+drifloon,425,"['flying', 'ghost']",2,ghost,flying,"flying,ghost"
+drifblim,426,"['flying', 'ghost']",2,ghost,flying,"flying,ghost"
+buneary,427,['normal'],1,normal,none,normal
+lopunny,428,['normal'],1,normal,none,normal
+mismagius,429,['ghost'],1,ghost,none,ghost
+honchkrow,430,"['dark', 'flying']",2,dark,flying,"dark,flying"
+glameow,431,['normal'],1,normal,none,normal
+purugly,432,['normal'],1,normal,none,normal
+chingling,433,['psychic'],1,psychic,none,psychic
+stunky,434,"['dark', 'poison']",2,poison,dark,"dark,poison"
+skuntank,435,"['dark', 'poison']",2,poison,dark,"dark,poison"
+bronzor,436,"['psychic', 'steel']",2,steel,psychic,"psychic,steel"
+bronzong,437,"['psychic', 'steel']",2,steel,psychic,"psychic,steel"
+bonsly,438,['rock'],1,rock,none,rock
+mime-jr,439,"['fairy', 'psychic']",2,psychic,fairy,"fairy,psychic"
+happiny,440,['normal'],1,normal,none,normal
+chatot,441,"['flying', 'normal']",2,normal,flying,"flying,normal"
+spiritomb,442,"['dark', 'ghost']",2,ghost,dark,"dark,ghost"
+gible,443,"['dragon', 'ground']",2,dragon,ground,"dragon,ground"
+gabite,444,"['dragon', 'ground']",2,dragon,ground,"dragon,ground"
+garchomp,445,"['dragon', 'ground']",2,dragon,ground,"dragon,ground"
+munchlax,446,['normal'],1,normal,none,normal
+riolu,447,['fighting'],1,fighting,none,fighting
+lucario,448,"['fighting', 'steel']",2,fighting,steel,"fighting,steel"
+hippopotas,449,['ground'],1,ground,none,ground
+hippowdon,450,['ground'],1,ground,none,ground
+skorupi,451,"['bug', 'poison']",2,poison,bug,"bug,poison"
+drapion,452,"['dark', 'poison']",2,poison,dark,"dark,poison"
+croagunk,453,"['fighting', 'poison']",2,poison,fighting,"fighting,poison"
+toxicroak,454,"['fighting', 'poison']",2,poison,fighting,"fighting,poison"
+carnivine,455,['grass'],1,grass,none,grass
+finneon,456,['water'],1,water,none,water
+lumineon,457,['water'],1,water,none,water
+mantyke,458,"['flying', 'water']",2,water,flying,"flying,water"
+snover,459,"['grass', 'ice']",2,grass,ice,"grass,ice"
+abomasnow,460,"['grass', 'ice']",2,grass,ice,"grass,ice"
+weavile,461,"['dark', 'ice']",2,dark,ice,"dark,ice"
+magnezone,462,"['electric', 'steel']",2,electric,steel,"electric,steel"
+lickilicky,463,['normal'],1,normal,none,normal
+rhyperior,464,"['ground', 'rock']",2,ground,rock,"ground,rock"
+tangrowth,465,['grass'],1,grass,none,grass
+electivire,466,['electric'],1,electric,none,electric
+magmortar,467,['fire'],1,fire,none,fire
+togekiss,468,"['fairy', 'flying']",2,fairy,flying,"fairy,flying"
+yanmega,469,"['bug', 'flying']",2,bug,flying,"bug,flying"
+leafeon,470,['grass'],1,grass,none,grass
+glaceon,471,['ice'],1,ice,none,ice
+gliscor,472,"['flying', 'ground']",2,ground,flying,"flying,ground"
+mamoswine,473,"['ground', 'ice']",2,ice,ground,"ground,ice"
+porygon-z,474,['normal'],1,normal,none,normal
+gallade,475,"['fighting', 'psychic']",2,psychic,fighting,"fighting,psychic"
+probopass,476,"['rock', 'steel']",2,rock,steel,"rock,steel"
+dusknoir,477,['ghost'],1,ghost,none,ghost
+froslass,478,"['ghost', 'ice']",2,ice,ghost,"ghost,ice"
+rotom,479,"['electric', 'ghost']",2,electric,ghost,"electric,ghost"
+uxie,480,['psychic'],1,psychic,none,psychic
+mesprit,481,['psychic'],1,psychic,none,psychic
+azelf,482,['psychic'],1,psychic,none,psychic
+dialga,483,"['dragon', 'steel']",2,steel,dragon,"dragon,steel"
+palkia,484,"['dragon', 'water']",2,water,dragon,"dragon,water"
+heatran,485,"['fire', 'steel']",2,fire,steel,"fire,steel"
+regigigas,486,['normal'],1,normal,none,normal
+giratina-altered,487,"['dragon', 'ghost']",2,ghost,dragon,"dragon,ghost"
+cresselia,488,['psychic'],1,psychic,none,psychic
+phione,489,['water'],1,water,none,water
+manaphy,490,['water'],1,water,none,water
+darkrai,491,['dark'],1,dark,none,dark
+shaymin-land,492,['grass'],1,grass,none,grass
+arceus,493,['normal'],1,normal,none,normal
+victini,494,"['fire', 'psychic']",2,psychic,fire,"fire,psychic"
+snivy,495,['grass'],1,grass,none,grass
+servine,496,['grass'],1,grass,none,grass
+serperior,497,['grass'],1,grass,none,grass
+tepig,498,['fire'],1,fire,none,fire
+pignite,499,"['fighting', 'fire']",2,fire,fighting,"fighting,fire"
+emboar,500,"['fighting', 'fire']",2,fire,fighting,"fighting,fire"
+oshawott,501,['water'],1,water,none,water
+dewott,502,['water'],1,water,none,water
+samurott,503,['water'],1,water,none,water
+patrat,504,['normal'],1,normal,none,normal
+watchog,505,['normal'],1,normal,none,normal
+lillipup,506,['normal'],1,normal,none,normal
+herdier,507,['normal'],1,normal,none,normal
+stoutland,508,['normal'],1,normal,none,normal
+purrloin,509,['dark'],1,dark,none,dark
+liepard,510,['dark'],1,dark,none,dark
+pansage,511,['grass'],1,grass,none,grass
+simisage,512,['grass'],1,grass,none,grass
+pansear,513,['fire'],1,fire,none,fire
+simisear,514,['fire'],1,fire,none,fire
+panpour,515,['water'],1,water,none,water
+simipour,516,['water'],1,water,none,water
+munna,517,['psychic'],1,psychic,none,psychic
+musharna,518,['psychic'],1,psychic,none,psychic
+pidove,519,"['flying', 'normal']",2,normal,flying,"flying,normal"
+tranquill,520,"['flying', 'normal']",2,normal,flying,"flying,normal"
+unfezant,521,"['flying', 'normal']",2,normal,flying,"flying,normal"
+blitzle,522,['electric'],1,electric,none,electric
+zebstrika,523,['electric'],1,electric,none,electric
+roggenrola,524,['rock'],1,rock,none,rock
+boldore,525,['rock'],1,rock,none,rock
+gigalith,526,['rock'],1,rock,none,rock
+woobat,527,"['flying', 'psychic']",2,psychic,flying,"flying,psychic"
+swoobat,528,"['flying', 'psychic']",2,psychic,flying,"flying,psychic"
+drilbur,529,['ground'],1,ground,none,ground
+excadrill,530,"['ground', 'steel']",2,ground,steel,"ground,steel"
+audino,531,['normal'],1,normal,none,normal
+timburr,532,['fighting'],1,fighting,none,fighting
+gurdurr,533,['fighting'],1,fighting,none,fighting
+conkeldurr,534,['fighting'],1,fighting,none,fighting
+tympole,535,['water'],1,water,none,water
+palpitoad,536,"['ground', 'water']",2,water,ground,"ground,water"
+seismitoad,537,"['ground', 'water']",2,water,ground,"ground,water"
+throh,538,['fighting'],1,fighting,none,fighting
+sawk,539,['fighting'],1,fighting,none,fighting
+sewaddle,540,"['bug', 'grass']",2,bug,grass,"bug,grass"
+swadloon,541,"['bug', 'grass']",2,bug,grass,"bug,grass"
+leavanny,542,"['bug', 'grass']",2,bug,grass,"bug,grass"
+venipede,543,"['bug', 'poison']",2,bug,poison,"bug,poison"
+whirlipede,544,"['bug', 'poison']",2,bug,poison,"bug,poison"
+scolipede,545,"['bug', 'poison']",2,bug,poison,"bug,poison"
+cottonee,546,"['fairy', 'grass']",2,grass,fairy,"fairy,grass"
+whimsicott,547,"['fairy', 'grass']",2,grass,fairy,"fairy,grass"
+petilil,548,['grass'],1,grass,none,grass
+lilligant,549,['grass'],1,grass,none,grass
+basculin-red-striped,550,['water'],1,water,none,water
+sandile,551,"['dark', 'ground']",2,ground,dark,"dark,ground"
+krokorok,552,"['dark', 'ground']",2,ground,dark,"dark,ground"
+krookodile,553,"['dark', 'ground']",2,ground,dark,"dark,ground"
+darumaka,554,['fire'],1,fire,none,fire
+darmanitan-standard,555,['fire'],1,fire,none,fire
+maractus,556,['grass'],1,grass,none,grass
+dwebble,557,"['bug', 'rock']",2,bug,rock,"bug,rock"
+crustle,558,"['bug', 'rock']",2,bug,rock,"bug,rock"
+scraggy,559,"['dark', 'fighting']",2,dark,fighting,"dark,fighting"
+scrafty,560,"['dark', 'fighting']",2,dark,fighting,"dark,fighting"
+sigilyph,561,"['flying', 'psychic']",2,psychic,flying,"flying,psychic"
+yamask,562,['ghost'],1,ghost,none,ghost
+cofagrigus,563,['ghost'],1,ghost,none,ghost
+tirtouga,564,"['rock', 'water']",2,water,rock,"rock,water"
+carracosta,565,"['rock', 'water']",2,water,rock,"rock,water"
+archen,566,"['flying', 'rock']",2,rock,flying,"flying,rock"
+archeops,567,"['flying', 'rock']",2,rock,flying,"flying,rock"
+trubbish,568,['poison'],1,poison,none,poison
+garbodor,569,['poison'],1,poison,none,poison
+zorua,570,['dark'],1,dark,none,dark
+zoroark,571,['dark'],1,dark,none,dark
+minccino,572,['normal'],1,normal,none,normal
+cinccino,573,['normal'],1,normal,none,normal
+gothita,574,['psychic'],1,psychic,none,psychic
+gothorita,575,['psychic'],1,psychic,none,psychic
+gothitelle,576,['psychic'],1,psychic,none,psychic
+solosis,577,['psychic'],1,psychic,none,psychic
+duosion,578,['psychic'],1,psychic,none,psychic
+reuniclus,579,['psychic'],1,psychic,none,psychic
+ducklett,580,"['flying', 'water']",2,water,flying,"flying,water"
+swanna,581,"['flying', 'water']",2,water,flying,"flying,water"
+vanillite,582,['ice'],1,ice,none,ice
+vanillish,583,['ice'],1,ice,none,ice
+vanilluxe,584,['ice'],1,ice,none,ice
+deerling,585,"['grass', 'normal']",2,normal,grass,"grass,normal"
+sawsbuck,586,"['grass', 'normal']",2,normal,grass,"grass,normal"
+emolga,587,"['electric', 'flying']",2,electric,flying,"electric,flying"
+karrablast,588,['bug'],1,bug,none,bug
+escavalier,589,"['bug', 'steel']",2,bug,steel,"bug,steel"
+foongus,590,"['grass', 'poison']",2,grass,poison,"grass,poison"
+amoonguss,591,"['grass', 'poison']",2,grass,poison,"grass,poison"
+frillish,592,"['ghost', 'water']",2,water,ghost,"ghost,water"
+jellicent,593,"['ghost', 'water']",2,water,ghost,"ghost,water"
+alomomola,594,['water'],1,water,none,water
+joltik,595,"['bug', 'electric']",2,bug,electric,"bug,electric"
+galvantula,596,"['bug', 'electric']",2,bug,electric,"bug,electric"
+ferroseed,597,"['grass', 'steel']",2,grass,steel,"grass,steel"
+ferrothorn,598,"['grass', 'steel']",2,grass,steel,"grass,steel"
+klink,599,['steel'],1,steel,none,steel
+klang,600,['steel'],1,steel,none,steel
+klinklang,601,['steel'],1,steel,none,steel
+tynamo,602,['electric'],1,electric,none,electric
+eelektrik,603,['electric'],1,electric,none,electric
+eelektross,604,['electric'],1,electric,none,electric
+elgyem,605,['psychic'],1,psychic,none,psychic
+beheeyem,606,['psychic'],1,psychic,none,psychic
+litwick,607,"['fire', 'ghost']",2,ghost,fire,"fire,ghost"
+lampent,608,"['fire', 'ghost']",2,ghost,fire,"fire,ghost"
+chandelure,609,"['fire', 'ghost']",2,ghost,fire,"fire,ghost"
+axew,610,['dragon'],1,dragon,none,dragon
+fraxure,611,['dragon'],1,dragon,none,dragon
+haxorus,612,['dragon'],1,dragon,none,dragon
+cubchoo,613,['ice'],1,ice,none,ice
+beartic,614,['ice'],1,ice,none,ice
+cryogonal,615,['ice'],1,ice,none,ice
+shelmet,616,['bug'],1,bug,none,bug
+accelgor,617,['bug'],1,bug,none,bug
+stunfisk,618,"['electric', 'ground']",2,ground,electric,"electric,ground"
+mienfoo,619,['fighting'],1,fighting,none,fighting
+mienshao,620,['fighting'],1,fighting,none,fighting
+druddigon,621,['dragon'],1,dragon,none,dragon
+golett,622,"['ghost', 'ground']",2,ground,ghost,"ghost,ground"
+golurk,623,"['ghost', 'ground']",2,ground,ghost,"ghost,ground"
+pawniard,624,"['dark', 'steel']",2,dark,steel,"dark,steel"
+bisharp,625,"['dark', 'steel']",2,dark,steel,"dark,steel"
+bouffalant,626,['normal'],1,normal,none,normal
+rufflet,627,"['flying', 'normal']",2,normal,flying,"flying,normal"
+braviary,628,"['flying', 'normal']",2,normal,flying,"flying,normal"
+vullaby,629,"['dark', 'flying']",2,dark,flying,"dark,flying"
+mandibuzz,630,"['dark', 'flying']",2,dark,flying,"dark,flying"
+heatmor,631,['fire'],1,fire,none,fire
+durant,632,"['bug', 'steel']",2,bug,steel,"bug,steel"
+deino,633,"['dark', 'dragon']",2,dark,dragon,"dark,dragon"
+zweilous,634,"['dark', 'dragon']",2,dark,dragon,"dark,dragon"
+hydreigon,635,"['dark', 'dragon']",2,dark,dragon,"dark,dragon"
+larvesta,636,"['bug', 'fire']",2,bug,fire,"bug,fire"
+volcarona,637,"['bug', 'fire']",2,bug,fire,"bug,fire"
+cobalion,638,"['fighting', 'steel']",2,steel,fighting,"fighting,steel"
+terrakion,639,"['fighting', 'rock']",2,rock,fighting,"fighting,rock"
+virizion,640,"['fighting', 'grass']",2,grass,fighting,"fighting,grass"
+tornadus-incarnate,641,['flying'],1,flying,none,flying
+thundurus-incarnate,642,"['electric', 'flying']",2,electric,flying,"electric,flying"
+reshiram,643,"['dragon', 'fire']",2,dragon,fire,"dragon,fire"
+zekrom,644,"['dragon', 'electric']",2,dragon,electric,"dragon,electric"
+landorus-incarnate,645,"['flying', 'ground']",2,ground,flying,"flying,ground"
+kyurem,646,"['dragon', 'ice']",2,dragon,ice,"dragon,ice"
+keldeo-ordinary,647,"['fighting', 'water']",2,water,fighting,"fighting,water"
+meloetta-aria,648,"['normal', 'psychic']",2,normal,psychic,"normal,psychic"
+genesect,649,"['bug', 'steel']",2,bug,steel,"bug,steel"
+chespin,650,['grass'],1,grass,none,grass
+quilladin,651,['grass'],1,grass,none,grass
+chesnaught,652,"['fighting', 'grass']",2,grass,fighting,"fighting,grass"
+fennekin,653,['fire'],1,fire,none,fire
+braixen,654,['fire'],1,fire,none,fire
+delphox,655,"['fire', 'psychic']",2,fire,psychic,"fire,psychic"
+froakie,656,['water'],1,water,none,water
+frogadier,657,['water'],1,water,none,water
+greninja,658,"['dark', 'water']",2,water,dark,"dark,water"
+bunnelby,659,['normal'],1,normal,none,normal
+diggersby,660,"['ground', 'normal']",2,normal,ground,"ground,normal"
+fletchling,661,"['flying', 'normal']",2,normal,flying,"flying,normal"
+fletchinder,662,"['fire', 'flying']",2,fire,flying,"fire,flying"
+talonflame,663,"['fire', 'flying']",2,fire,flying,"fire,flying"
+scatterbug,664,['bug'],1,bug,none,bug
+spewpa,665,['bug'],1,bug,none,bug
+vivillon,666,"['bug', 'flying']",2,bug,flying,"bug,flying"
+litleo,667,"['fire', 'normal']",2,fire,normal,"fire,normal"
+pyroar,668,"['fire', 'normal']",2,fire,normal,"fire,normal"
+flabebe,669,['fairy'],1,fairy,none,fairy
+floette,670,['fairy'],1,fairy,none,fairy
+florges,671,['fairy'],1,fairy,none,fairy
+skiddo,672,['grass'],1,grass,none,grass
+gogoat,673,['grass'],1,grass,none,grass
+pancham,674,['fighting'],1,fighting,none,fighting
+pangoro,675,"['dark', 'fighting']",2,fighting,dark,"dark,fighting"
+furfrou,676,['normal'],1,normal,none,normal
+espurr,677,['psychic'],1,psychic,none,psychic
+meowstic-male,678,['psychic'],1,psychic,none,psychic
+honedge,679,"['ghost', 'steel']",2,steel,ghost,"ghost,steel"
+doublade,680,"['ghost', 'steel']",2,steel,ghost,"ghost,steel"
+aegislash-shield,681,"['ghost', 'steel']",2,steel,ghost,"ghost,steel"
+spritzee,682,['fairy'],1,fairy,none,fairy
+aromatisse,683,['fairy'],1,fairy,none,fairy
+swirlix,684,['fairy'],1,fairy,none,fairy
+slurpuff,685,['fairy'],1,fairy,none,fairy
+inkay,686,"['dark', 'psychic']",2,dark,psychic,"dark,psychic"
+malamar,687,"['dark', 'psychic']",2,dark,psychic,"dark,psychic"
+binacle,688,"['rock', 'water']",2,rock,water,"rock,water"
+barbaracle,689,"['rock', 'water']",2,rock,water,"rock,water"
+skrelp,690,"['poison', 'water']",2,poison,water,"poison,water"
+dragalge,691,"['dragon', 'poison']",2,poison,dragon,"dragon,poison"
+clauncher,692,['water'],1,water,none,water
+clawitzer,693,['water'],1,water,none,water
+helioptile,694,"['electric', 'normal']",2,electric,normal,"electric,normal"
+heliolisk,695,"['electric', 'normal']",2,electric,normal,"electric,normal"
+tyrunt,696,"['dragon', 'rock']",2,rock,dragon,"dragon,rock"
+tyrantrum,697,"['dragon', 'rock']",2,rock,dragon,"dragon,rock"
+amaura,698,"['ice', 'rock']",2,rock,ice,"ice,rock"
+aurorus,699,"['ice', 'rock']",2,rock,ice,"ice,rock"
+sylveon,700,['fairy'],1,fairy,none,fairy
+hawlucha,701,"['fighting', 'flying']",2,fighting,flying,"fighting,flying"
+dedenne,702,"['electric', 'fairy']",2,electric,fairy,"electric,fairy"
+carbink,703,"['fairy', 'rock']",2,rock,fairy,"fairy,rock"
+goomy,704,['dragon'],1,dragon,none,dragon
+sliggoo,705,['dragon'],1,dragon,none,dragon
+goodra,706,['dragon'],1,dragon,none,dragon
+klefki,707,"['fairy', 'steel']",2,steel,fairy,"fairy,steel"
+phantump,708,"['ghost', 'grass']",2,ghost,grass,"ghost,grass"
+trevenant,709,"['ghost', 'grass']",2,ghost,grass,"ghost,grass"
+pumpkaboo-average,710,"['ghost', 'grass']",2,ghost,grass,"ghost,grass"
+gourgeist-average,711,"['ghost', 'grass']",2,ghost,grass,"ghost,grass"
+bergmite,712,['ice'],1,ice,none,ice
+avalugg,713,['ice'],1,ice,none,ice
+noibat,714,"['dragon', 'flying']",2,flying,dragon,"dragon,flying"
+noivern,715,"['dragon', 'flying']",2,flying,dragon,"dragon,flying"
+xerneas,716,['fairy'],1,fairy,none,fairy
+yveltal,717,"['dark', 'flying']",2,dark,flying,"dark,flying"
+zygarde,718,"['dragon', 'ground']",2,dragon,ground,"dragon,ground"
+diancie,719,"['fairy', 'rock']",2,rock,fairy,"fairy,rock"
+hoopa,720,"['ghost', 'psychic']",2,psychic,ghost,"ghost,psychic"
+volcanion,721,"['fire', 'water']",2,fire,water,"fire,water"
+rowlet,722,"['flying', 'grass']",2,grass,flying,"flying,grass"
+dartrix,723,"['flying', 'grass']",2,grass,flying,"flying,grass"
+decidueye,724,"['ghost', 'grass']",2,grass,ghost,"ghost,grass"
+litten,725,['fire'],1,fire,none,fire
+torracat,726,['fire'],1,fire,none,fire
+incineroar,727,"['dark', 'fire']",2,fire,dark,"dark,fire"
+popplio,728,['water'],1,water,none,water
+brionne,729,['water'],1,water,none,water
+primarina,730,"['fairy', 'water']",2,water,fairy,"fairy,water"
+pikipek,731,"['flying', 'normal']",2,normal,flying,"flying,normal"
+trumbeak,732,"['flying', 'normal']",2,normal,flying,"flying,normal"
+toucannon,733,"['flying', 'normal']",2,normal,flying,"flying,normal"
+yungoos,734,['normal'],1,normal,none,normal
+gumshoos,735,['normal'],1,normal,none,normal
+grubbin,736,['bug'],1,bug,none,bug
+charjabug,737,"['bug', 'electric']",2,bug,electric,"bug,electric"
+vikavolt,738,"['bug', 'electric']",2,bug,electric,"bug,electric"
+crabrawler,739,['fighting'],1,fighting,none,fighting
+crabominable,740,"['fighting', 'ice']",2,fighting,ice,"fighting,ice"
+oricorio-baile,741,"['fire', 'flying']",2,fire,flying,"fire,flying"
+cutiefly,742,"['bug', 'fairy']",2,bug,fairy,"bug,fairy"
+ribombee,743,"['bug', 'fairy']",2,bug,fairy,"bug,fairy"
+rockruff,744,['rock'],1,rock,none,rock
+lycanroc-midday,745,['rock'],1,rock,none,rock
+wishiwashi-solo,746,['water'],1,water,none,water
+mareanie,747,"['poison', 'water']",2,poison,water,"poison,water"
+toxapex,748,"['poison', 'water']",2,poison,water,"poison,water"
+mudbray,749,['ground'],1,ground,none,ground
+mudsdale,750,['ground'],1,ground,none,ground
+dewpider,751,"['bug', 'water']",2,water,bug,"bug,water"
+araquanid,752,"['bug', 'water']",2,water,bug,"bug,water"
+fomantis,753,['grass'],1,grass,none,grass
+lurantis,754,['grass'],1,grass,none,grass
+morelull,755,"['fairy', 'grass']",2,grass,fairy,"fairy,grass"
+shiinotic,756,"['fairy', 'grass']",2,grass,fairy,"fairy,grass"
+salandit,757,"['fire', 'poison']",2,poison,fire,"fire,poison"
+salazzle,758,"['fire', 'poison']",2,poison,fire,"fire,poison"
+stufful,759,"['fighting', 'normal']",2,normal,fighting,"fighting,normal"
+bewear,760,"['fighting', 'normal']",2,normal,fighting,"fighting,normal"
+bounsweet,761,['grass'],1,grass,none,grass
+steenee,762,['grass'],1,grass,none,grass
+tsareena,763,['grass'],1,grass,none,grass
+comfey,764,['fairy'],1,fairy,none,fairy
+oranguru,765,"['normal', 'psychic']",2,normal,psychic,"normal,psychic"
+passimian,766,['fighting'],1,fighting,none,fighting
+wimpod,767,"['bug', 'water']",2,bug,water,"bug,water"
+golisopod,768,"['bug', 'water']",2,bug,water,"bug,water"
+sandygast,769,"['ghost', 'ground']",2,ghost,ground,"ghost,ground"
+palossand,770,"['ghost', 'ground']",2,ghost,ground,"ghost,ground"
+pyukumuku,771,['water'],1,water,none,water
+type-null,772,['normal'],1,normal,none,normal
+silvally,773,['normal'],1,normal,none,normal
+minior-red-meteor,774,"['flying', 'rock']",2,rock,flying,"flying,rock"
+komala,775,['normal'],1,normal,none,normal
+turtonator,776,"['dragon', 'fire']",2,fire,dragon,"dragon,fire"
+togedemaru,777,"['electric', 'steel']",2,electric,steel,"electric,steel"
+mimikyu-disguised,778,"['fairy', 'ghost']",2,ghost,fairy,"fairy,ghost"
+bruxish,779,"['psychic', 'water']",2,water,psychic,"psychic,water"
+drampa,780,"['dragon', 'normal']",2,normal,dragon,"dragon,normal"
+dhelmise,781,"['ghost', 'grass']",2,ghost,grass,"ghost,grass"
+jangmo-o,782,['dragon'],1,dragon,none,dragon
+hakamo-o,783,"['dragon', 'fighting']",2,dragon,fighting,"dragon,fighting"
+kommo-o,784,"['dragon', 'fighting']",2,dragon,fighting,"dragon,fighting"
+tapu-koko,785,"['electric', 'fairy']",2,electric,fairy,"electric,fairy"
+tapu-lele,786,"['fairy', 'psychic']",2,psychic,fairy,"fairy,psychic"
+tapu-bulu,787,"['fairy', 'grass']",2,grass,fairy,"fairy,grass"
+tapu-fini,788,"['fairy', 'water']",2,water,fairy,"fairy,water"
+cosmog,789,['psychic'],1,psychic,none,psychic
+cosmoem,790,['psychic'],1,psychic,none,psychic
+solgaleo,791,"['psychic', 'steel']",2,psychic,steel,"psychic,steel"
+lunala,792,"['ghost', 'psychic']",2,psychic,ghost,"ghost,psychic"
+nihilego,793,"['poison', 'rock']",2,rock,poison,"poison,rock"
+buzzwole,794,"['bug', 'fighting']",2,bug,fighting,"bug,fighting"
+pheromosa,795,"['bug', 'fighting']",2,bug,fighting,"bug,fighting"
+xurkitree,796,['electric'],1,electric,none,electric
+celesteela,797,"['flying', 'steel']",2,steel,flying,"flying,steel"
+kartana,798,"['grass', 'steel']",2,grass,steel,"grass,steel"
+guzzlord,799,"['dark', 'dragon']",2,dark,dragon,"dark,dragon"
+necrozma,800,['psychic'],1,psychic,none,psychic
+magearna,801,"['fairy', 'steel']",2,steel,fairy,"fairy,steel"
+marshadow,802,"['fighting', 'ghost']",2,fighting,ghost,"fighting,ghost"
+poipole,803,['poison'],1,poison,none,poison
+naganadel,804,"['dragon', 'poison']",2,poison,dragon,"dragon,poison"
+stakataka,805,"['rock', 'steel']",2,rock,steel,"rock,steel"
+blacephalon,806,"['fire', 'ghost']",2,fire,ghost,"fire,ghost"
+zeraora,807,['electric'],1,electric,none,electric
+meltan,808,['steel'],1,steel,none,steel
+melmetal,809,['steel'],1,steel,none,steel
+grookey,810,['grass'],1,grass,none,grass
+thwackey,811,['grass'],1,grass,none,grass
+rillaboom,812,['grass'],1,grass,none,grass
+scorbunny,813,['fire'],1,fire,none,fire
+raboot,814,['fire'],1,fire,none,fire
+cinderace,815,['fire'],1,fire,none,fire
+sobble,816,['water'],1,water,none,water
+drizzile,817,['water'],1,water,none,water
+inteleon,818,['water'],1,water,none,water
+skwovet,819,['normal'],1,normal,none,normal
+greedent,820,['normal'],1,normal,none,normal
+rookidee,821,['flying'],1,flying,none,flying
+corvisquire,822,['flying'],1,flying,none,flying
+corviknight,823,"['flying', 'steel']",2,flying,steel,"flying,steel"
+blipbug,824,['bug'],1,bug,none,bug
+dottler,825,"['bug', 'psychic']",2,bug,psychic,"bug,psychic"
+orbeetle,826,"['bug', 'psychic']",2,bug,psychic,"bug,psychic"
+nickit,827,['dark'],1,dark,none,dark
+thievul,828,['dark'],1,dark,none,dark
+gossifleur,829,['grass'],1,grass,none,grass
+eldegoss,830,['grass'],1,grass,none,grass
+wooloo,831,['normal'],1,normal,none,normal
+dubwool,832,['normal'],1,normal,none,normal
+chewtle,833,['water'],1,water,none,water
+drednaw,834,"['rock', 'water']",2,water,rock,"rock,water"
+yamper,835,['electric'],1,electric,none,electric
+boltund,836,['electric'],1,electric,none,electric
+rolycoly,837,['rock'],1,rock,none,rock
+carkol,838,"['fire', 'rock']",2,rock,fire,"fire,rock"
+coalossal,839,"['fire', 'rock']",2,rock,fire,"fire,rock"
+applin,840,"['dragon', 'grass']",2,grass,dragon,"dragon,grass"
+flapple,841,"['dragon', 'grass']",2,grass,dragon,"dragon,grass"
+appletun,842,"['dragon', 'grass']",2,grass,dragon,"dragon,grass"
+silicobra,843,['ground'],1,ground,none,ground
+sandaconda,844,['ground'],1,ground,none,ground
+cramorant,845,"['flying', 'water']",2,flying,water,"flying,water"
+arrokuda,846,['water'],1,water,none,water
+barraskewda,847,['water'],1,water,none,water
+toxel,848,"['electric', 'poison']",2,electric,poison,"electric,poison"
+toxtricity-amped,849,"['electric', 'poison']",2,electric,poison,"electric,poison"
+sizzlipede,850,"['bug', 'fire']",2,fire,bug,"bug,fire"
+centiskorch,851,"['bug', 'fire']",2,fire,bug,"bug,fire"
+clobbopus,852,['fighting'],1,fighting,none,fighting
+grapploct,853,['fighting'],1,fighting,none,fighting
+sinistea,854,['ghost'],1,ghost,none,ghost
+polteageist,855,['ghost'],1,ghost,none,ghost
+hatenna,856,['psychic'],1,psychic,none,psychic
+hattrem,857,['psychic'],1,psychic,none,psychic
+hatterene,858,"['fairy', 'psychic']",2,psychic,fairy,"fairy,psychic"
+impidimp,859,"['dark', 'fairy']",2,dark,fairy,"dark,fairy"
+morgrem,860,"['dark', 'fairy']",2,dark,fairy,"dark,fairy"
+grimmsnarl,861,"['dark', 'fairy']",2,dark,fairy,"dark,fairy"
+obstagoon,862,"['dark', 'normal']",2,dark,normal,"dark,normal"
+perrserker,863,['steel'],1,steel,none,steel
+cursola,864,['ghost'],1,ghost,none,ghost
+sirfetchd,865,['fighting'],1,fighting,none,fighting
+mr-rime,866,"['ice', 'psychic']",2,ice,psychic,"ice,psychic"
+runerigus,867,"['ghost', 'ground']",2,ground,ghost,"ghost,ground"
+milcery,868,['fairy'],1,fairy,none,fairy
+alcremie,869,['fairy'],1,fairy,none,fairy
+falinks,870,['fighting'],1,fighting,none,fighting
+pincurchin,871,['electric'],1,electric,none,electric
+snom,872,"['bug', 'ice']",2,ice,bug,"bug,ice"
+frosmoth,873,"['bug', 'ice']",2,ice,bug,"bug,ice"
+stonjourner,874,['rock'],1,rock,none,rock
+eiscue-ice,875,['ice'],1,ice,none,ice
+indeedee-male,876,"['normal', 'psychic']",2,psychic,normal,"normal,psychic"
+morpeko,877,"['dark', 'electric']",2,electric,dark,"dark,electric"
+cufant,878,['steel'],1,steel,none,steel
+copperajah,879,['steel'],1,steel,none,steel
+dracozolt,880,"['dragon', 'electric']",2,electric,dragon,"dragon,electric"
+arctozolt,881,"['electric', 'ice']",2,electric,ice,"electric,ice"
+dracovish,882,"['dragon', 'water']",2,water,dragon,"dragon,water"
+arctovish,883,"['ice', 'water']",2,water,ice,"ice,water"
+duraludon,884,"['dragon', 'steel']",2,steel,dragon,"dragon,steel"
+dreepy,885,"['dragon', 'ghost']",2,dragon,ghost,"dragon,ghost"
+drakloak,886,"['dragon', 'ghost']",2,dragon,ghost,"dragon,ghost"
+dragapult,887,"['dragon', 'ghost']",2,dragon,ghost,"dragon,ghost"
+zacian-hero,888,['fairy'],1,fairy,none,fairy
+zamazenta-hero,889,['fighting'],1,fighting,none,fighting
+eternatus,890,"['dragon', 'poison']",2,poison,dragon,"dragon,poison"
+kubfu,891,['fighting'],1,fighting,none,fighting
+urshifu-single-strike,892,"['dark', 'fighting']",2,fighting,dark,"dark,fighting"
+zarude,893,"['dark', 'grass']",2,dark,grass,"dark,grass"
+regieleki,894,['electric'],1,electric,none,electric
+regidrago,895,['dragon'],1,dragon,none,dragon
+glastrier,896,['ice'],1,ice,none,ice
+spectrier,897,['ghost'],1,ghost,none,ghost
+calyrex,898,"['grass', 'psychic']",2,psychic,grass,"grass,psychic"
